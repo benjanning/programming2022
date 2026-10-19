@@ -18,6 +18,10 @@ This page is a guide to my selected projects. Each repository includes source co
 
 **A note on the work:** These repositories include academic projects and learning exercises. They demonstrate methods and implementation, not production-certified systems, deployed commercial products, or clinical decision tools.
 
+## Additional full-stack coursework
+
+- **[Cork City Hotel Booking Prototype](./case-studies/cork-city-hotel.md)** — a Node.js/Express/EJS/MySQL booking-flow case study from my university project archive. *(Complete cleaned source is prepared separately; the public case study does not claim to host the full app.)*
+
 ## Other technical work
 
 - [Data Representation Coursework](https://github.com/benjanning/data-representation-coursework) — APIs, HTTP, web data formats and database exercises.
